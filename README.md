@@ -7,7 +7,7 @@
 - Learning more about:
     - RISC-V architecture;
     - Verilog;
-    - Chip Desing.
+    - Chip Design.
 ---
 ## Workflow
 
